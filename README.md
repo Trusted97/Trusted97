@@ -5,7 +5,7 @@ I am a Developer and Analyst from Italy 🇮🇹. I am interested in, write abou
 ## 📬 Get in touch
 
 - Web: [gianlucabenucci.com][1]
-- LinkedIn: [linkedin.com/in/natterstefan][2]
+- LinkedIn: [https://it.linkedin.com//in/gianluca-benucci][2]
 
 
 ## &#x1f4c8; My GitHub Stats
