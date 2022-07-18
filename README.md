@@ -2,6 +2,8 @@ Hey 👋🏻,
 
 I am a Developer and Analyst from Italy 🇮🇹. I am interested in, write about and develop (open source) software solutions for and with Python, PHP, Javascript, Elasticsearch, Redis
 
+Currently working as Full Stack Developer at Skuola.net, the # 1 educational site dedicated to school and university students with its +7,000,000 unique accesses / month and a community of +3.5 million users on the site and +2.5 million on social networks.
+
 ## 📬 Get in touch
 
 - LinkedIn: [https://it.linkedin.com//in/gianluca-benucci][1]
