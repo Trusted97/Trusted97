@@ -3,7 +3,7 @@ Hey 👋🏻,
 I am a Developer and Analyst from Italy 🇮🇹. 
 I am interested in writing about and developing (open source) software solutions for and with `Python, PHP, Javascript, Elasticsearch, Redis`
 
-Currently working as Backend Developer for the Developer Experience at Immobiliare.it, the #1 Real Estate company in Italy.
+Currently working as Backend Developer for the Developer Experience Team at Immobiliare.it, the #1 Real Estate company in Italy.
 
 ## 📬 Get in touch
 
