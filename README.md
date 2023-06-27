@@ -7,8 +7,7 @@ Currently working as Backend Developer for the Developer Experience Team at Immo
 
 ## 📬 Get in touch
 
-- Website: [https://www.gianlucabenucci.com/][1]
-- LinkedIn: [https://it.linkedin.com//in/gianluca-benucci][2]
+- LinkedIn: [https://www.linkedin.com/in/gianluca-benucci/][1]
 
 
 ## &#x1f4c8; My GitHub Stats
@@ -21,5 +20,4 @@ Currently working as Backend Developer for the Developer Experience Team at Immo
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Trusted97&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Trusted GitHub Stats" />
 </a>
 
-[1]: https://www.gianlucabenucci.com/
-[2]: https://it.linkedin.com//in/gianluca-benucci
+[1]: https://www.linkedin.com/in/gianluca-benucci/
