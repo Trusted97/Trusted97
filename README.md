@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🌟 Let me give you a brief glimpse into my tech 
 
 💼 I'm currently working as a backend developer for the DX team at Immobiliare.it. With a passion for web development, I specialize in creating robust and efficient solutions.
 
-⚙️ My web developer stack includes PHP (Symfony and CodeIgniter frameworks), Python, and expertise in database management (MYSQL, MongoDB, and Postgresql). I'm also proficient in Elasticsearch for enhancing user experiences with powerful search capabilities.
+⚙️ My developer stack includes PHP (Symfony and CodeIgniter frameworks), Python, Rust, and expertise in database management (MySQL, MongoDB, and PostgreSQL). I'm also proficient in Elasticsearch for enhancing user experiences with powerful search capabilities.
 
 🥋 In addition to my love for coding, I'm also passionate about martial arts! I practice Ju-Jitsu and Judo, which brings discipline, focus, and physical well-being to my life.
 
