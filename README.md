@@ -1,28 +1,23 @@
-👋 Hello there, fellow developers and coding enthusiasts! 👨‍💻
+👋 Hello, fellow developers and tech enthusiasts! 👨‍💻
 
-Welcome to my GitHub profile! 🌟 Let me give you a brief glimpse into my tech journey:
+Welcome to my GitHub profile! 🌟 Let me take a moment to introduce myself and share a bit about my journey in the world of technology.
 
-💼 I'm currently working as a backend developer for the DX team at Immobiliare.it. With a passion for web development, I specialize in creating robust and efficient solutions.
+💼 I’m currently working as a backend developer on the DX team at Immobiliare.it. With a strong passion for web development, I focus on building reliable, scalable, and efficient backend solutions that help improve user experience and system performance.
 
-⚙️ My developer stack includes PHP (Symfony and CodeIgniter frameworks), Python, Rust, and expertise in database management (MySQL, MongoDB, and PostgreSQL). I'm also proficient in Elasticsearch for enhancing user experiences with powerful search capabilities.
+⚙️ My technical toolkit includes PHP (with Symfony and CodeIgniter frameworks), Python, and Rust. I have solid experience in database technologies such as MySQL, MongoDB, and PostgreSQL, as well as in Elasticsearch, which I use to implement powerful and responsive search features.
 
-🥋 In addition to my love for coding, I'm also passionate about martial arts! I practice Ju-Jitsu and Judo, which brings discipline, focus, and physical well-being to my life.
+🥋 Outside the tech sphere, I’m deeply committed to martial arts. I actively practice Ju-Jitsu and Judo, which have helped me develop discipline, perseverance, and mental focus — qualities I also apply in my professional life.
 
-📸 When I'm not immersed in the world of coding or martial arts, you can find me behind the lens as an amateur photographer. Capturing moments and exploring the world through photography is a hobby that brings me joy and allows me to unleash my creative side.
+📸 When I’m not coding or training, I enjoy photography as a creative outlet. Capturing unique moments and exploring new perspectives through my lens is something I find both relaxing and rewarding.
 
-🚀 I'm always eager to stay up to date with the latest industry trends and emerging technologies, constantly striving for continuous improvement.
+🐉 I'm also a passionate tabletop gamer, especially when it comes to role-playing games like Dungeons & Dragons. I love storytelling, building immersive worlds, and collaborating with friends to create epic adventures. It's a great way to sharpen my creativity, improvisation skills, and teamwork — all of which translate into my approach to problem-solving in tech.
 
-🤝 Collaboration is key! I enjoy working with cross-functional teams, exchanging ideas, and brainstorming innovative solutions to complex problems.
+🃏 Another hobby I’m truly enthusiastic about is Magic: The Gathering. Whether I'm deck-building, analyzing card synergies, or competing in friendly matches, the strategic depth of the game constantly challenges my thinking. It teaches me patience, foresight, and adaptability — traits I bring to software development as well.
 
-🔒 Please note that I'm not currently open to recruitment opportunities. I'm content with my current position and not actively seeking any changes. So, dear recruiters, including yourself, kindly refrain from reaching out.
+🚀 I’m always eager to learn about new technologies and stay on top of industry trends. Personal growth and continuous improvement are core values that drive me forward in both my career and personal projects.
 
-Thank you for visiting my profile! Feel free to explore my repositories, and don't hesitate to get in touch if you have any questions or want to discuss the exciting world of coding! 🤓✨
+🤝 I believe collaboration is one of the most powerful tools in development. I thrive in team environments where ideas flow freely and complex problems are tackled through collective effort.
 
+🔒 Please note that I'm not currently exploring new job opportunities. I’m happy in my current role, so I kindly ask recruiters to respect this and refrain from reaching out.
 
-## &#x1f4c8; My GitHub Stats
-
-<a href="https://github.com/Trusted97/Trusted97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Trusted97&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Trusted GitHub Stats" />
-</a>
-
-[1]: https://www.linkedin.com/in/gianluca-benucci/
+Thank you for visiting my profile! Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to connect or talk about coding, games, or creative projects. 🤓✨
